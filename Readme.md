@@ -1,5 +1,5 @@
 
-Vijay 
+Vijay &
 Sumsum
 
 Problem:  develop a classification deep learning model for CIFAR data set with the following features 
