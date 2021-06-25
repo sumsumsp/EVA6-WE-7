@@ -1,3 +1,7 @@
+
+Vijay 
+Sumsum
+
 Problem:  develop a classification deep learning model for CIFAR data set with the following features 
 
 i) one of the layers must use Depth-wise Separable Convolution
